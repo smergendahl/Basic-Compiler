@@ -1,7 +1,7 @@
 # CFlat
 Basic programming language compiler built for CS536 (Intro to Compilers) at UW-Madison
 
-Created by Colin Samplawski and Sam Mergendahl (github.com/smergendahl)
+Created by Sam Mergendahl and Colin Samplawski (github.com/colinski)
 
 
 #Description
