@@ -1,5 +1,5 @@
 # CFlat
-Basic programming language compiler at UW-Madison
+Basic programming language compiler
 
 Created by Sam Mergendahl and Colin Samplawski (github.com/colinski)
 
