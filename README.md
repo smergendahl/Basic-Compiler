@@ -1,5 +1,5 @@
 # CFlat
-Basic programming language compiler
+Basic programming language compiler written in Java that compiles a language similar to C
 
 Created by Sam Mergendahl and Colin Samplawski (github.com/colinski)
 
